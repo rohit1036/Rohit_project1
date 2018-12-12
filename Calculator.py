@@ -5,4 +5,4 @@ def sub():
 def multiply():
     pass
 def division():
-    pass
+    return 2/3
